@@ -1,0 +1,181 @@
+Month,Channel,Candidate,Reference,Seconds,,
+7,FOX,Kamala Harris,The Vice President,488,"channel=""FOX"" AND text=""The Vice President""",2024-07-01
+8,FOX,Kamala Harris,The Vice President,1102.822,"channel=""FOX"" AND text=""The Vice President""",2024-08-01
+9,FOX,Kamala Harris,The Vice President,989.43,"channel=""FOX"" AND text=""The Vice President""",2024-09-01
+10,FOX,Kamala Harris,The Vice President,96,"channel=""FOX"" AND text=""The Vice President""",2024-10-01
+7,FOX,Kamala Harris,Vice President Harris,445.573,"channel=""FOX"" AND text=""Vice President Harris""",2024-07-01
+8,FOX,Kamala Harris,Vice President Harris,1139.846,"channel=""FOX"" AND text=""Vice President Harris""",2024-08-01
+9,FOX,Kamala Harris,Vice President Harris,1123.502,"channel=""FOX"" AND text=""Vice President Harris""",2024-09-01
+10,FOX,Kamala Harris,Vice President Harris,94,"channel=""FOX"" AND text=""Vice President Harris""",2024-10-01
+7,FOX,Kamala Harris,Vice President Kamala Harris,295,"channel=""FOX"" AND text=""Vice President Kamala Harris""",2024-07-01
+8,FOX,Kamala Harris,Vice President Kamala Harris,637.543,"channel=""FOX"" AND text=""Vice President Kamala Harris""",2024-08-01
+9,FOX,Kamala Harris,Vice President Kamala Harris,527,"channel=""FOX"" AND text=""Vice President Kamala Harris""",2024-09-01
+10,FOX,Kamala Harris,Vice President Kamala Harris,49,"channel=""FOX"" AND text=""Vice President Kamala Harris""",2024-10-01
+7,FOX,Kamala Harris,VP Harris,32,"channel=""FOX"" AND text=""VP Harris""",2024-07-01
+8,FOX,Kamala Harris,VP Harris,73,"channel=""FOX"" AND text=""VP Harris""",2024-08-01
+9,FOX,Kamala Harris,VP Harris,36,"channel=""FOX"" AND text=""VP Harris""",2024-09-01
+10,FOX,Kamala Harris,VP Harris,1,"channel=""FOX"" AND text=""VP Harris""",2024-10-01
+7,FOX,Kamala Harris,Kamala,1437.814,"channel=""FOX"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-07-01
+8,FOX,Kamala Harris,Kamala,4174.369,"channel=""FOX"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-08-01
+9,FOX,Kamala Harris,Kamala,2945.179,"channel=""FOX"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-09-01
+10,FOX,Kamala Harris,Kamala,296.382,"channel=""FOX"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-10-01
+7,FOX,Kamala Harris,Harris,2188.818,"channel=""FOX"" AND text=""Harris \ (Kamala | President) // 2""",2024-07-01
+8,FOX,Kamala Harris,Harris,6720.428,"channel=""FOX"" AND text=""Harris \ (Kamala | President) // 2""",2024-08-01
+9,FOX,Kamala Harris,Harris,5890.801,"channel=""FOX"" AND text=""Harris \ (Kamala | President) // 2""",2024-09-01
+10,FOX,Kamala Harris,Harris,748.285,"channel=""FOX"" AND text=""Harris \ (Kamala | President) // 2""",2024-10-01
+7,FOX,Kamala Harris,Kamala Harris,3490.227,"channel=""FOX"" AND text=""Kamala Harris \ President :: 2""",2024-07-01
+8,FOX,Kamala Harris,Kamala Harris,8311.296,"channel=""FOX"" AND text=""Kamala Harris \ President :: 2""",2024-08-01
+9,FOX,Kamala Harris,Kamala Harris,6262.773,"channel=""FOX"" AND text=""Kamala Harris \ President :: 2""",2024-09-01
+10,FOX,Kamala Harris,Kamala Harris,694,"channel=""FOX"" AND text=""Kamala Harris \ President :: 2""",2024-10-01
+7,CNN,Kamala Harris,The Vice President,1176.98,"channel=""CNN"" AND text=""The Vice President""",2024-07-01
+8,CNN,Kamala Harris,The Vice President,2060.523,"channel=""CNN"" AND text=""The Vice President""",2024-08-01
+9,CNN,Kamala Harris,The Vice President,1509.032,"channel=""CNN"" AND text=""The Vice President""",2024-09-01
+10,CNN,Kamala Harris,The Vice President,172.274,"channel=""CNN"" AND text=""The Vice President""",2024-10-01
+7,CNN,Kamala Harris,Vice President Harris,1214,"channel=""CNN"" AND text=""Vice President Harris""",2024-07-01
+8,CNN,Kamala Harris,Vice President Harris,1946,"channel=""CNN"" AND text=""Vice President Harris""",2024-08-01
+9,CNN,Kamala Harris,Vice President Harris,1392.003,"channel=""CNN"" AND text=""Vice President Harris""",2024-09-01
+10,CNN,Kamala Harris,Vice President Harris,126,"channel=""CNN"" AND text=""Vice President Harris""",2024-10-01
+7,CNN,Kamala Harris,Vice President Kamala Harris,690,"channel=""CNN"" AND text=""Vice President Kamala Harris""",2024-07-01
+8,CNN,Kamala Harris,Vice President Kamala Harris,984.717,"channel=""CNN"" AND text=""Vice President Kamala Harris""",2024-08-01
+9,CNN,Kamala Harris,Vice President Kamala Harris,695.655,"channel=""CNN"" AND text=""Vice President Kamala Harris""",2024-09-01
+10,CNN,Kamala Harris,Vice President Kamala Harris,71,"channel=""CNN"" AND text=""Vice President Kamala Harris""",2024-10-01
+7,CNN,Kamala Harris,VP Harris,7,"channel=""CNN"" AND text=""VP Harris""",2024-07-01
+8,CNN,Kamala Harris,VP Harris,32.639,"channel=""CNN"" AND text=""VP Harris""",2024-08-01
+9,CNN,Kamala Harris,VP Harris,6,"channel=""CNN"" AND text=""VP Harris""",2024-09-01
+10,CNN,Kamala Harris,VP Harris,1,"channel=""CNN"" AND text=""VP Harris""",2024-10-01
+7,CNN,Kamala Harris,Kamala,159.663,"channel=""CNN"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-07-01
+8,CNN,Kamala Harris,Kamala,750.636,"channel=""CNN"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-08-01
+9,CNN,Kamala Harris,Kamala,516.902,"channel=""CNN"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-09-01
+10,CNN,Kamala Harris,Kamala,68,"channel=""CNN"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-10-01
+7,CNN,Kamala Harris,Harris,3644.852,"channel=""CNN"" AND text=""Harris \ (Kamala | President) // 2""",2024-07-01
+8,CNN,Kamala Harris,Harris,8731.197,"channel=""CNN"" AND text=""Harris \ (Kamala | President) // 2""",2024-08-01
+9,CNN,Kamala Harris,Harris,6090.834,"channel=""CNN"" AND text=""Harris \ (Kamala | President) // 2""",2024-09-01
+10,CNN,Kamala Harris,Harris,697.522,"channel=""CNN"" AND text=""Harris \ (Kamala | President) // 2""",2024-10-01
+7,CNN,Kamala Harris,Kamala Harris,2737.473,"channel=""CNN"" AND text=""Kamala Harris \ President :: 2""",2024-07-01
+8,CNN,Kamala Harris,Kamala Harris,6579.783,"channel=""CNN"" AND text=""Kamala Harris \ President :: 2""",2024-08-01
+9,CNN,Kamala Harris,Kamala Harris,4425.846,"channel=""CNN"" AND text=""Kamala Harris \ President :: 2""",2024-09-01
+10,CNN,Kamala Harris,Kamala Harris,638.905,"channel=""CNN"" AND text=""Kamala Harris \ President :: 2""",2024-10-01
+7,MSNBC,Kamala Harris,The Vice President,1298.474,"channel=""MSNBC"" AND text=""The Vice President""",2024-07-01
+8,MSNBC,Kamala Harris,The Vice President,2305.948,"channel=""MSNBC"" AND text=""The Vice President""",2024-08-01
+9,MSNBC,Kamala Harris,The Vice President,1552.616,"channel=""MSNBC"" AND text=""The Vice President""",2024-09-01
+10,MSNBC,Kamala Harris,The Vice President,233.291,"channel=""MSNBC"" AND text=""The Vice President""",2024-10-01
+7,MSNBC,Kamala Harris,Vice President Harris,1650.523,"channel=""MSNBC"" AND text=""Vice President Harris""",2024-07-01
+8,MSNBC,Kamala Harris,Vice President Harris,2661.72,"channel=""MSNBC"" AND text=""Vice President Harris""",2024-08-01
+9,MSNBC,Kamala Harris,Vice President Harris,1984.379,"channel=""MSNBC"" AND text=""Vice President Harris""",2024-09-01
+10,MSNBC,Kamala Harris,Vice President Harris,232,"channel=""MSNBC"" AND text=""Vice President Harris""",2024-10-01
+7,MSNBC,Kamala Harris,Vice President Kamala Harris,579.625,"channel=""MSNBC"" AND text=""Vice President Kamala Harris""",2024-07-01
+8,MSNBC,Kamala Harris,Vice President Kamala Harris,892.795,"channel=""MSNBC"" AND text=""Vice President Kamala Harris""",2024-08-01
+9,MSNBC,Kamala Harris,Vice President Kamala Harris,655.148,"channel=""MSNBC"" AND text=""Vice President Kamala Harris""",2024-09-01
+10,MSNBC,Kamala Harris,Vice President Kamala Harris,71,"channel=""MSNBC"" AND text=""Vice President Kamala Harris""",2024-10-01
+7,MSNBC,Kamala Harris,VP Harris,60,"channel=""MSNBC"" AND text=""VP Harris""",2024-07-01
+8,MSNBC,Kamala Harris,VP Harris,159.54,"channel=""MSNBC"" AND text=""VP Harris""",2024-08-01
+9,MSNBC,Kamala Harris,VP Harris,99,"channel=""MSNBC"" AND text=""VP Harris""",2024-09-01
+10,MSNBC,Kamala Harris,VP Harris,9,"channel=""MSNBC"" AND text=""VP Harris""",2024-10-01
+7,MSNBC,Kamala Harris,Kamala,394.851,"channel=""MSNBC"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-07-01
+8,MSNBC,Kamala Harris,Kamala,1100.544,"channel=""MSNBC"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-08-01
+9,MSNBC,Kamala Harris,Kamala,395.957,"channel=""MSNBC"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-09-01
+10,MSNBC,Kamala Harris,Kamala,40,"channel=""MSNBC"" AND (text=""Kamala \ Harris // 2"" OR text=""Kamala's"")",2024-10-01
+7,MSNBC,Kamala Harris,Harris,2694.902,"channel=""MSNBC"" AND text=""Harris \ (Kamala | President) // 2""",2024-07-01
+8,MSNBC,Kamala Harris,Harris,7447.977,"channel=""MSNBC"" AND text=""Harris \ (Kamala | President) // 2""",2024-08-01
+9,MSNBC,Kamala Harris,Harris,5459.392,"channel=""MSNBC"" AND text=""Harris \ (Kamala | President) // 2""",2024-09-01
+10,MSNBC,Kamala Harris,Harris,531.305,"channel=""MSNBC"" AND text=""Harris \ (Kamala | President) // 2""",2024-10-01
+7,MSNBC,Kamala Harris,Kamala Harris,2892.192,"channel=""MSNBC"" AND text=""Kamala Harris \ President :: 2""",2024-07-01
+8,MSNBC,Kamala Harris,Kamala Harris,6236.581,"channel=""MSNBC"" AND text=""Kamala Harris \ President :: 2""",2024-08-01
+9,MSNBC,Kamala Harris,Kamala Harris,4390.481,"channel=""MSNBC"" AND text=""Kamala Harris \ President :: 2""",2024-09-01
+10,MSNBC,Kamala Harris,Kamala Harris,624.766,"channel=""MSNBC"" AND text=""Kamala Harris \ President :: 2""",2024-10-01
+7,MSNBC,Donald Trump,The Former President,208,"channel=""MSNBC"" AND text=""The Former President""",2024-07-01
+8,MSNBC,Donald Trump,The Former President,669,"channel=""MSNBC"" AND text=""The Former President""",2024-08-01
+9,MSNBC,Donald Trump,The Former President,1034,"channel=""MSNBC"" AND text=""The Former President""",2024-09-01
+10,MSNBC,Donald Trump,The Former President,89,"channel=""MSNBC"" AND text=""The Former President""",2024-10-01
+7,MSNBC,Donald Trump,Former President Trump,234,"channel=""MSNBC"" AND text=""Former President Trump""",2024-07-01
+8,MSNBC,Donald Trump,Former President Trump,632.456,"channel=""MSNBC"" AND text=""Former President Trump""",2024-08-01
+9,MSNBC,Donald Trump,Former President Trump,887.298,"channel=""MSNBC"" AND text=""Former President Trump""",2024-09-01
+10,MSNBC,Donald Trump,Former President Trump,67,"channel=""MSNBC"" AND text=""Former President Trump""",2024-10-01
+7,MSNBC,Donald Trump,Former President Donald Trump,69,"channel=""MSNBC"" AND text=""Former President Donald Trump""",2024-07-01
+8,MSNBC,Donald Trump,Former President Donald Trump,214.711,"channel=""MSNBC"" AND text=""Former President Donald Trump""",2024-08-01
+9,MSNBC,Donald Trump,Former President Donald Trump,233,"channel=""MSNBC"" AND text=""Former President Donald Trump""",2024-09-01
+10,MSNBC,Donald Trump,Former President Donald Trump,22.734,"channel=""MSNBC"" AND text=""Former President Donald Trump""",2024-10-01
+7,MSNBC,Donald Trump,President Trump,121.838,"channel=""MSNBC"" AND text=""President Trump \ Former // 2""",2024-07-01
+8,MSNBC,Donald Trump,President Trump,381.862,"channel=""MSNBC"" AND text=""President Trump \ Former // 2""",2024-08-01
+9,MSNBC,Donald Trump,President Trump,378.018,"channel=""MSNBC"" AND text=""President Trump \ Former // 2""",2024-09-01
+10,MSNBC,Donald Trump,President Trump,48.794,"channel=""MSNBC"" AND text=""President Trump \ Former // 2""",2024-10-01
+7,MSNBC,Donald Trump,President Donald Trump,2,"channel=""MSNBC"" AND text=""President Donald Trump \ Former // 2""",2024-07-01
+8,MSNBC,Donald Trump,President Donald Trump,14,"channel=""MSNBC"" AND text=""President Donald Trump \ Former // 2""",2024-08-01
+9,MSNBC,Donald Trump,President Donald Trump,27,"channel=""MSNBC"" AND text=""President Donald Trump \ Former // 2""",2024-09-01
+10,MSNBC,Donald Trump,President Donald Trump,2,"channel=""MSNBC"" AND text=""President Donald Trump \ Former // 2""",2024-10-01
+7,MSNBC,Donald Trump,Donald Trump,3776.443,"channel=""MSNBC"" AND text=""Donald Trump \ President // 2""",2024-07-01
+8,MSNBC,Donald Trump,Donald Trump,12016.475,"channel=""MSNBC"" AND text=""Donald Trump \ President // 2""",2024-08-01
+9,MSNBC,Donald Trump,Donald Trump,12656.599,"channel=""MSNBC"" AND text=""Donald Trump \ President // 2""",2024-09-01
+10,MSNBC,Donald Trump,Donald Trump,2104.285,"channel=""MSNBC"" AND text=""Donald Trump \ President // 2""",2024-10-01
+7,MSNBC,Donald Trump,Trump,3634.903,"channel=""MSNBC"" AND text=""Trump \ (Donald | President) // 2""",2024-07-01
+8,MSNBC,Donald Trump,Trump,12894.39,"channel=""MSNBC"" AND text=""Trump \ (Donald | President) // 2""",2024-08-01
+9,MSNBC,Donald Trump,Trump,13106.254,"channel=""MSNBC"" AND text=""Trump \ (Donald | President) // 2""",2024-09-01
+10,MSNBC,Donald Trump,Trump,1733.338,"channel=""MSNBC"" AND text=""Trump \ (Donald | President) // 2""",2024-10-01
+7,MSNBC,Donald Trump,Donald,94,"channel=""MSNBC"" AND text=""Donald \ (Trump | President) // 2""",2024-07-01
+8,MSNBC,Donald Trump,Donald,203.275,"channel=""MSNBC"" AND text=""Donald \ (Trump | President) // 2""",2024-08-01
+9,MSNBC,Donald Trump,Donald,346.791,"channel=""MSNBC"" AND text=""Donald \ (Trump | President) // 2""",2024-09-01
+10,MSNBC,Donald Trump,Donald,22,"channel=""MSNBC"" AND text=""Donald \ (Trump | President) // 2""",2024-10-01
+7,CNN,Donald Trump,The Former President,489,"channel=""CNN"" AND text=""The Former President""",2024-07-01
+8,CNN,Donald Trump,The Former President,1399,"channel=""CNN"" AND text=""The Former President""",2024-08-01
+9,CNN,Donald Trump,The Former President,1692.699,"channel=""CNN"" AND text=""The Former President""",2024-09-01
+10,CNN,Donald Trump,The Former President,191,"channel=""CNN"" AND text=""The Former President""",2024-10-01
+7,CNN,Donald Trump,Former President Trump,285,"channel=""CNN"" AND text=""Former President Trump""",2024-07-01
+8,CNN,Donald Trump,Former President Trump,512,"channel=""CNN"" AND text=""Former President Trump""",2024-08-01
+9,CNN,Donald Trump,Former President Trump,626.416,"channel=""CNN"" AND text=""Former President Trump""",2024-09-01
+10,CNN,Donald Trump,Former President Trump,62,"channel=""CNN"" AND text=""Former President Trump""",2024-10-01
+7,CNN,Donald Trump,Former President Donald Trump,229,"channel=""CNN"" AND text=""Former President Donald Trump""",2024-07-01
+8,CNN,Donald Trump,Former President Donald Trump,464,"channel=""CNN"" AND text=""Former President Donald Trump""",2024-08-01
+9,CNN,Donald Trump,Former President Donald Trump,622,"channel=""CNN"" AND text=""Former President Donald Trump""",2024-09-01
+10,CNN,Donald Trump,Former President Donald Trump,56,"channel=""CNN"" AND text=""Former President Donald Trump""",2024-10-01
+7,CNN,Donald Trump,President Trump,305.504,"channel=""CNN"" AND text=""President Trump \ Former // 2""",2024-07-01
+8,CNN,Donald Trump,President Trump,768.996,"channel=""CNN"" AND text=""President Trump \ Former // 2""",2024-08-01
+9,CNN,Donald Trump,President Trump,722.473,"channel=""CNN"" AND text=""President Trump \ Former // 2""",2024-09-01
+10,CNN,Donald Trump,President Trump,66,"channel=""CNN"" AND text=""President Trump \ Former // 2""",2024-10-01
+7,CNN,Donald Trump,President Donald Trump,24,"channel=""CNN"" AND text=""President Donald Trump \ Former // 2""",2024-07-01
+8,CNN,Donald Trump,President Donald Trump,59,"channel=""CNN"" AND text=""President Donald Trump \ Former // 2""",2024-08-01
+9,CNN,Donald Trump,President Donald Trump,56,"channel=""CNN"" AND text=""President Donald Trump \ Former // 2""",2024-09-01
+10,CNN,Donald Trump,President Donald Trump,5,"channel=""CNN"" AND text=""President Donald Trump \ Former // 2""",2024-10-01
+7,CNN,Donald Trump,Donald Trump,3330.338,"channel=""CNN"" AND text=""Donald Trump \ President // 2""",2024-07-01
+8,CNN,Donald Trump,Donald Trump,9855.105,"channel=""CNN"" AND text=""Donald Trump \ President // 2""",2024-08-01
+9,CNN,Donald Trump,Donald Trump,8892.922,"channel=""CNN"" AND text=""Donald Trump \ President // 2""",2024-09-01
+10,CNN,Donald Trump,Donald Trump,1482.54,"channel=""CNN"" AND text=""Donald Trump \ President // 2""",2024-10-01
+7,CNN,Donald Trump,Trump,4042.321,"channel=""CNN"" AND text=""Trump \ (Donald | President) // 2""",2024-07-01
+8,CNN,Donald Trump,Trump,13794.276,"channel=""CNN"" AND text=""Trump \ (Donald | President) // 2""",2024-08-01
+9,CNN,Donald Trump,Trump,12374.404,"channel=""CNN"" AND text=""Trump \ (Donald | President) // 2""",2024-09-01
+10,CNN,Donald Trump,Trump,1740.149,"channel=""CNN"" AND text=""Trump \ (Donald | President) // 2""",2024-10-01
+7,CNN,Donald Trump,Donald,61,"channel=""CNN"" AND text=""Donald \ (Trump | President) // 2""",2024-07-01
+8,CNN,Donald Trump,Donald,257.769,"channel=""CNN"" AND text=""Donald \ (Trump | President) // 2""",2024-08-01
+9,CNN,Donald Trump,Donald,233.857,"channel=""CNN"" AND text=""Donald \ (Trump | President) // 2""",2024-09-01
+10,CNN,Donald Trump,Donald,79,"channel=""CNN"" AND text=""Donald \ (Trump | President) // 2""",2024-10-01
+7,FOX,Donald Trump,The Former President,408,"channel=""FOX"" AND text=""The Former President""",2024-07-01
+8,FOX,Donald Trump,The Former President,817.282,"channel=""FOX"" AND text=""The Former President""",2024-08-01
+9,FOX,Donald Trump,The Former President,1595.591,"channel=""FOX"" AND text=""The Former President""",2024-09-01
+10,FOX,Donald Trump,The Former President,94,"channel=""FOX"" AND text=""The Former President""",2024-10-01
+7,FOX,Donald Trump,Former President Trump,579,"channel=""FOX"" AND text=""Former President Trump""",2024-07-01
+8,FOX,Donald Trump,Former President Trump,1226.818,"channel=""FOX"" AND text=""Former President Trump""",2024-08-01
+9,FOX,Donald Trump,Former President Trump,1327.779,"channel=""FOX"" AND text=""Former President Trump""",2024-09-01
+10,FOX,Donald Trump,Former President Trump,117,"channel=""FOX"" AND text=""Former President Trump""",2024-10-01
+7,FOX,Donald Trump,Former President Donald Trump,185,"channel=""FOX"" AND text=""Former President Donald Trump""",2024-07-01
+8,FOX,Donald Trump,Former President Donald Trump,287,"channel=""FOX"" AND text=""Former President Donald Trump""",2024-08-01
+9,FOX,Donald Trump,Former President Donald Trump,355,"channel=""FOX"" AND text=""Former President Donald Trump""",2024-09-01
+10,FOX,Donald Trump,Former President Donald Trump,22,"channel=""FOX"" AND text=""Former President Donald Trump""",2024-10-01
+7,FOX,Donald Trump,President Trump,905.479,"channel=""FOX"" AND text=""President Trump \ Former // 2""",2024-07-01
+8,FOX,Donald Trump,President Trump,2113.344,"channel=""FOX"" AND text=""President Trump \ Former // 2""",2024-08-01
+9,FOX,Donald Trump,President Trump,2584.804,"channel=""FOX"" AND text=""President Trump \ Former // 2""",2024-09-01
+10,FOX,Donald Trump,President Trump,184.412,"channel=""FOX"" AND text=""President Trump \ Former // 2""",2024-10-01
+7,FOX,Donald Trump,President Donald Trump,27,"channel=""FOX"" AND text=""President Donald Trump \ Former // 2""",2024-07-01
+8,FOX,Donald Trump,President Donald Trump,57,"channel=""FOX"" AND text=""President Donald Trump \ Former // 2""",2024-08-01
+9,FOX,Donald Trump,President Donald Trump,63,"channel=""FOX"" AND text=""President Donald Trump \ Former // 2""",2024-09-01
+10,FOX,Donald Trump,President Donald Trump,7,"channel=""FOX"" AND text=""President Donald Trump \ Former // 2""",2024-10-01
+7,FOX,Donald Trump,Donald Trump,1790.922,"channel=""FOX"" AND text=""Donald Trump \ President // 2""",2024-07-01
+8,FOX,Donald Trump,Donald Trump,4817.508,"channel=""FOX"" AND text=""Donald Trump \ President // 2""",2024-08-01
+9,FOX,Donald Trump,Donald Trump,5927.763,"channel=""FOX"" AND text=""Donald Trump \ President // 2""",2024-09-01
+10,FOX,Donald Trump,Donald Trump,751.483,"channel=""FOX"" AND text=""Donald Trump \ President // 2""",2024-10-01
+7,FOX,Donald Trump,Trump,3027.492,"channel=""FOX"" AND text=""Trump \ (Donald | President) // 2""",2024-07-01
+8,FOX,Donald Trump,Trump,8595.134,"channel=""FOX"" AND text=""Trump \ (Donald | President) // 2""",2024-08-01
+9,FOX,Donald Trump,Trump,10930.5,"channel=""FOX"" AND text=""Trump \ (Donald | President) // 2""",2024-09-01
+10,FOX,Donald Trump,Trump,886.605,"channel=""FOX"" AND text=""Trump \ (Donald | President) // 2""",2024-10-01
+7,FOX,Donald Trump,Donald,45,"channel=""FOX"" AND text=""Donald \ (Trump | President) // 2""",2024-07-01
+8,FOX,Donald Trump,Donald,151.745,"channel=""FOX"" AND text=""Donald \ (Trump | President) // 2""",2024-08-01
+9,FOX,Donald Trump,Donald,175.917,"channel=""FOX"" AND text=""Donald \ (Trump | President) // 2""",2024-09-01
+10,FOX,Donald Trump,Donald,23,"channel=""FOX"" AND text=""Donald \ (Trump | President) // 2""",2024-10-01
