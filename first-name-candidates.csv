@@ -1,0 +1,37 @@
+Channel,Candidate,Reference,Seconds
+FOX,Beto O'Rourke,Beto O'Rourke,2980.199
+FOX,Beto O'Rourke,O'Rourke,750.106
+FOX,Beto O'Rourke,Beto,2513.195
+CNN,Beto O'Rourke,Beto O'Rourke,2477.357
+CNN,Beto O'Rourke,O'Rourke,615.461
+CNN,Beto O'Rourke,Beto,901.238
+MSNBC,Beto O'Rourke,Beto O'Rourke,3158.896
+MSNBC,Beto O'Rourke,O'Rourke,1037.461
+MSNBC,Beto O'Rourke,Beto,2053.989
+FOX,Bernie Sanders,Bernie Sanders,24358.771
+FOX,Bernie Sanders,Sanders,10724.631
+FOX,Bernie Sanders,Bernie,12328.718
+CNN,Bernie Sanders,Bernie Sanders,18114.603
+CNN,Bernie Sanders,Sanders,14470.098
+CNN,Bernie Sanders,Bernie,4524.084
+MSNBC,Bernie Sanders,Bernie Sanders,21677.643
+MSNBC,Bernie Sanders,Sanders,16340.272
+MSNBC,Bernie Sanders,Bernie,7043.17
+FOX,Pete Buttigieg,Pete Buttigieg,4892.624
+FOX,Pete Buttigieg,Buttigieg,2874.369
+FOX,Pete Buttigieg,Pete,29721.065
+CNN,Pete Buttigieg,Pete Buttigieg,5788.373
+CNN,Pete Buttigieg,Buttigieg,4697.713
+CNN,Pete Buttigieg,Pete,2348.39
+MSNBC,Pete Buttigieg,Pete Buttigieg,6889.873
+MSNBC,Pete Buttigieg,Buttigieg,5174.984
+MSNBC,Pete Buttigieg,Pete,7653.946
+FOX,Kamala Harris,Kamala Harris,18758.296
+FOX,Kamala Harris,Harris,15548.332
+FOX,Kamala Harris,Kamala,8853.744
+CNN,Kamala Harris,Kamala Harris,14382.007
+CNN,Kamala Harris,Harris,19164.405
+CNN,Kamala Harris,Kamala,1495.201
+MSNBC,Kamala Harris,Kamala Harris,14144.02
+MSNBC,Kamala Harris,Harris,16133.576
+MSNBC,Kamala Harris,Kamala,1931.352
